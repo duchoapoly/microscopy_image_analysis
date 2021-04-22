@@ -1,4 +1,4 @@
-# microscopy_image_analysis
+# Microscopy image processing and analysis 
 This project composed of both processing and analysis of  Interference reflection microscopy images.
 It addressed many aspects of a typical experiment with microscopy imaging (see 'question.pdf'). 
 The first stage is to design a fluorescence microscopy experiment: select fluorophores, filter set, set up imaging conditions,...
